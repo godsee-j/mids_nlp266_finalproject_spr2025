@@ -1,1 +1,2 @@
-# mids_nlp266_finalproject_spr2025
+# NLP 266 Spring 2025 Final Project
+By Gina Geiselman and Godsee Joy 
